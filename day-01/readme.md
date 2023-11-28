@@ -1,8 +1,9 @@
-<!--pull::git init
+<!--initialization::git init
 git branch -m master main
 git remote add origin (link)
 git remote -v 
-git pull origin main
+       
+pull::git pull origin main
 
 commit:: git add .
 git status
