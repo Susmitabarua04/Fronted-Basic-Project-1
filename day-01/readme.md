@@ -8,16 +8,16 @@
 `git remote add origin (link)`
 `git remote -v `
        
-  ### Git initialization
+  ### Git pull
 `pull::git pull origin main`
 
 
-### Git initialization
+### Git commit
 `commit:: git add .`
 `git status`
 `git commit -m "name"`
 
-### Git initialization
+### Git push
 `push:: git push origin main`
 
 
